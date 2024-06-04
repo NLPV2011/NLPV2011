@@ -15,13 +15,12 @@
   </a>
   <img src="https://komarev.com/ghpvc/?username=NLPV2011&style=flat-square&color=blue" alt="" align="center"/>
 </div>
-<h1>
-  Nguyễn Lê Phúc Vinh(NLPV2011)
-</h1>
----
 <div id="profile-views" align="center">
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </div>
+<h1>
+  Nguyễn Lê Phúc Vinh(NLPV2011)
+</h1>
 ---
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=NLPV2011&theme=dark&background=000000)](https://git.io/streak-stats)
