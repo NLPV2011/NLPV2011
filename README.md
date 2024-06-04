@@ -5,7 +5,10 @@
 </div>
 <div id="badges">
   <a href="https://www.facebook.com/profile.php?id=100085288406784">
-    <img src="https://img.shields.io/badge/Facebook-blue?style=for-the-badge&logo=Facebook&logoColor=white" alt="Facebook Badge"/>
+    <img src="https://img.shields.io/badge/Facebook-blue?style=for-the-badge&logo=Facebook&logoColor=white" alt="NLPV2011 on Facebook"/>
+  </a>
+  <a href="http://www.youtube.com/@FollowTheRhythm-Creative">
+    <img src="https://img.shields.io/badge/FollowTheRhythm_Creative-white?style=for-the-badge&logo=Youtube&logoColor=black" alt="FollowTheRhythm Creative on Youtube"/>
   </a>
 </div>
 
