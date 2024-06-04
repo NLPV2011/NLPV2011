@@ -13,13 +13,13 @@
   <a href="https://github.com/NLPV2011">
     <img src="https://img.shields.io/badge/Github-black?style=for-the-badge&logo=Github&logoColor=white" alt="NLPV2011 on Github"/>
   </a>
-  <img src="https://komarev.com/ghpvc/?username=NLPV2011&style=flat-square&color=blue" alt="" align="center"/>
 </div>
 <div id="profile-views" align="center">
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+  <img src="https://komarev.com/ghpvc/?username=NLPV2011&style=flat-square&color=blue" alt="" align="center"/>
 </div>
 <h1>
   Nguyễn Lê Phúc Vinh(NLPV2011)
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 ---
 
