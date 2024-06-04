@@ -5,7 +5,7 @@
 </div>
 <div id="badges">
   <a href="https://www.facebook.com/profile.php?id=100085288406784">
-    <img src="https://img.shields.io/badge/Facebook-blue?style=for-the-badge&logo=youtube&logoColor=white" alt="Facebook Badge"/>
+    <img src="https://img.shields.io/badge/Facebook-blue?style=for-the-badge&logo=Facebook&logoColor=white" alt="Facebook Badge"/>
   </a>
 </div>
 
