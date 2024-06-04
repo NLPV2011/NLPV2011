@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <div id="header" align="center">
   <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExcXYybnR1ZHY4bDM1Zjg3ZTR1bTA5YzNidnpuOWFuYW9yb3ZsOTB4ayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/smGCEo5zsAXtK4bqAT/giphy.gif" width="100"/>
 </div>
@@ -18,9 +16,12 @@
   <img src="https://komarev.com/ghpvc/?username=NLPV2011&style=flat-square&color=blue" alt="" align="center"/>
 </div>
 <h1>
-  Nguyễn Lê Phúc Vinh(NLPV2011)
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
+---
+
+# Nguyễn Lê Phúc Vinh(NLPV2011)
+
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=NLPV2011&theme=dark&background=000000)](https://git.io/streak-stats)
 
