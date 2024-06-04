@@ -1,3 +1,5 @@
+## Hi there 👋
+
 <div id="header" align="center">
   <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExcXYybnR1ZHY4bDM1Zjg3ZTR1bTA5YzNidnpuOWFuYW9yb3ZsOTB4ayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/smGCEo5zsAXtK4bqAT/giphy.gif" width="100"/>
 </div>
@@ -16,17 +18,24 @@
   <img src="https://komarev.com/ghpvc/?username=NLPV2011&style=flat-square&color=blue" alt="" align="center"/>
 </div>
 <h1>
+  Nguyễn Lê Phúc Vinh(NLPV2011)
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
+
+# 💫 About Me?
+
+- 🔭 I’m currently working on mmy home :Đ
+- 🌱 I’m currently learning Python/Web/C-C++/AI and "How to love you?"
+- 💬 Ask me about Python or AI(Language Model, Singing Voice Conversion, etc.)
+- ⚡ Fun fact: I love YOU!
+
 ---
 
-# Nguyễn Lê Phúc Vinh(NLPV2011)
-
-
+# 🔥My Github Streak 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=NLPV2011&theme=dark&background=000000)](https://git.io/streak-stats)
 
 ---
-
+# 🌏 Top Used Language
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NLPV2011&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
