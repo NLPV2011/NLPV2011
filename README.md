@@ -14,7 +14,7 @@
     <img src="https://img.shields.io/badge/Github-black?style=for-the-badge&logo=Github&logoColor=white" alt="NLPV2011 on Github"/>
   </a>
 </div>
-<img src="https://komarev.com/ghpvc/?username=NLPV2011&style=flat-square&color=white" alt=""/>
+<img src="https://komarev.com/ghpvc/?username=NLPV2011&style=flat-square&color=blue" alt=""/>
 
 <!--
 **NLPV2011/NLPV2011** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
