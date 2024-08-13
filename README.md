@@ -22,6 +22,8 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Montserrat&pause=1000&width=435&lines=This+is+how+I+found+what's+called+%22Rhythm.%22)](https://git.io/typing-svg)
+
 # 💫 About Me?
 
 - 🔭 I’m currently working on mmy home :Đ
